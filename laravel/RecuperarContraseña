@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/master.css">
+
+  </head>
+  <body>
+
+    <div class="login-box">
+      <img src="imagenes/logo.webp" class="avatar" alt="Avatar Image">
+      <h1>Recuperar contraseña</h1>
+      <form>
+
+        <!-- REQUIRE HOTMAIL -->
+        <p>Escribe tu dirección de correo electrónico</p>
+        <input type="text" placeholder="Correo">
+        <input type="submit" value="Mandar correo" >
+      </form>
+    </div>
+  </body>
+</html>
